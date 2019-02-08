@@ -1,3 +1,5 @@
+![](https://travis-ci.org/godkun/egg-msg-flash-v2.svg?branch=master)
+
 # egg-msg-flash-v2
 
 
